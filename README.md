@@ -45,6 +45,6 @@ Announcements Screen:
 - Material UI
 
 **_Contact:_**
-- [LinkedIn](https://www.linkedin.com/in/gautam-arora-b2788b191/)
-- [Github](https://github.com/Gautam-Arora24)
-- [Instagram](https://www.instagram.com/gautamarora6248/)
+- [LinkedIn](www.linkedin.com/in/raushan-imam-0452b5220)
+- [Github](github.com/Raushanimam )
+- [Instagram]()
